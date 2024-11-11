@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm currently learning Full-stack web dev with AI/ML
+working on some real-life project
 
 <!--
 **pavannaik2004/pavannaik2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
